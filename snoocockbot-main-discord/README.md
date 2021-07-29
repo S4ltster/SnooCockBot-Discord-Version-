@@ -1,5 +1,8 @@
-# snoocockbot
+# snoocockbot (but Discord)
 The spiritual successor to AmongUsCockBot.
+
+
+[Invite it here](https://discord.com/api/oauth2/authorize?client_id=836728250158809149&permissions=2147551232&redirect_uri=https%3A%2F%2Fdeltara3.github.io&scope=bot)
 
 ## Why?
 I dunno, it was funny.
@@ -13,7 +16,7 @@ I dunno, it was funny.
 ## Where?
 Odd question but okay. It's running on repl because I'm broke.
 
-## History (In order)
+## History (In order, Reddit version)
 - 04/26/2021 - Idea is created by [Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere).
 - 04/26/2021 - I ([u/IPV46](https://www.reddit.com/user/IPV46)) wanted to bring it to life.
 - 04/26/2021 - Account was created.
