@@ -49,8 +49,12 @@ Odd question but okay. It's running on repl because I'm broke.
 
 There would have been pictures of our snoos with cocks here, but I'm lazy.
 
+(Fuck you, **adds Dev snoos with cocks**) -[S4ltster](https://github.com/S4ltster)
+
 
 Take this instead.
 
 
-![Snoo Cock](snoocock.png)
+![Snoo Cocks](Elemento_Spherewithacock.png)
+![Snoo Cocks](IPV46Withacock.png)
+![Snoo Cocks](Glass-ParamedicWithaCock.png)
