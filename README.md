@@ -7,4 +7,4 @@ Basically for your Discord Snoo cock needs
 
 Enjoy a cock now.
 
-![Snoo cock](/snoocockbot-main-discord/snoocock.png)
+![Snoo cock](/snoocockbot-main-discord/Elemento_Spherewithacock.png)
