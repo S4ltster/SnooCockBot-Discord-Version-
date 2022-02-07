@@ -1,4 +1,4 @@
-# snoocockbot
+# snoocockbot discord
 The spiritual successor to AmongUsCockBot.
 
 ## Why?
@@ -40,11 +40,11 @@ Odd question but okay. It's running on repl because I'm broke.
 - [u/AmongUsCockBot](https://github.com/nlanson/AmongUsCockBot) for being a fellow cock bot.
 - You, because people using the bot is neat.
 
-## The team
-- [u/IPV46](https://www.reddit.com/user/IPV46) - Developer
-- [u/Glass-Paramedic](https://www.reddit.com/user/Glass-Paramedic) - Co-Developer
-- [u/Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere) - The man with the idea, Co-Developer
-- [u/nyperfox](https://www.reddit.com/user/nyperfox) - He did some shit too
+## The team (Tags with #0000 are censored for privacy, unless the developer states otherwise.)
+- [Deltara#4947](https://www.reddit.com/user/IPV46) - Developer
+- [glass#0000](https://www.reddit.com/user/Glass-Paramedic) - Co-Developer
+- [Sparkster#0000] - The man with the idea, Co-Developer (Takes Care of the Snoocockbot Discord Repo)
+
 
 
 There would have been pictures of our snoos with cocks here, but I'm lazy.
