@@ -41,9 +41,9 @@ Odd question but okay. It's running on repl because I'm broke.
 - You, because people using the bot is neat.
 
 ## The team (Tags with #0000 are censored for privacy, unless the developer states otherwise.)
-- [Deltara#4947](https://www.reddit.com/user/IPV46) - Developer
-- [glass#0000](https://www.reddit.com/user/Glass-Paramedic) - Co-Developer
-- [Sparkster#0000] - The man with the idea, Co-Developer (Takes Care of the Snoocockbot Discord Repo)
+- Deltara#4947 - Developer
+- glass#0000 - Co-Developer
+- Sparkster#0000 - The man with the idea, Co-Developer (Takes Care of the Snoocockbot Discord Repo)
 
 
 
