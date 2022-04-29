@@ -13,7 +13,7 @@ bot_token = os.environ['token']
 client = commands.Bot(command_prefix = 'u/', intents = discord.Intents.all())
 client.remove_command('help')
 slash = SlashCommand(client, sync_commands = True)
-status = cycle(['Proudly serving Snoo cocks to the world.','Reddit version: u/snoocockbot','Release: Stable','Shoutouts to Simpleflips','u/help', 'Shoutouts to Saltster#4359, Deltara#6969, Glass-Paramedic#8989, Nyperfox#6046'])
+status = cycle(['Proudly serving Snoo cocks to the world.','Reddit version: u/snoocockbot','Release: Stable','Shoutouts to Simpleflips','u/help', 'Shoutouts to Sparkster, Deltara#6969, Glass-Paramedic#8989, Nyperfox#6046'])
 
 @client.event
 async def on_ready():
