@@ -58,7 +58,8 @@ async def redditteam(ctx):
 
 @client.command()
 async def discordteam(ctx):
-  await ctx.send("Saltster#4359, Deltara#6969, Glass-Paramedic#8989, Nyperfox#6046")
+  await ctx.send("Sparkster#0000, Deltara#4947, Glass-Paramedic#6889, Nyperfox#6046")
+#Tags which are #0000 are censored for privacy
 
 @client.command()
 async def invite(ctx):
