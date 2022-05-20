@@ -15,7 +15,7 @@ I dunno, it was funny.
 Odd question but okay. It's running on repl because I'm broke.
 
 ## History (In order, EST Time)
-- 04/26/2021 - Idea is created by [Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere).
+- 04/26/2021 - Idea is created by [Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere). - [Deleted]
 - 04/26/2021 - I ([u/IPV46](https://www.reddit.com/user/IPV46)) wanted to bring it to life.
 - 04/26/2021 - Account was created.
 - 04/27/2021 - Repl was created.
@@ -26,7 +26,7 @@ Odd question but okay. It's running on repl because I'm broke.
 - 07/01/2021 - Bot was awarded Gold. Enabling it to have a premium avatar.
 - 07/02/2021 - Bot finally became open-source.
 - 07/02/2021 - Bot got a Snoo avatar makeover thanks to an anonymous Redditor awarding it Gold.
-- 07/27/2021 - [Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere). Became a dev
+- 07/27/2021 - [Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere). - [Deleted] Became a dev
 - 08/02/2021 - Bot got the Brighten My Day award.
 - 08/09/2021 - Bot hit 6900 karma!
 
@@ -35,7 +35,7 @@ Odd question but okay. It's running on repl because I'm broke.
 - [u/Glass-Paramedic](https://www.reddit.com/user/Glass-Paramedic) for Co-Developing and paying someone a pound for the artwork
 - That guy who wished to stay anonymous for making the artwork.
 - The anonymous Redditor who gifted the bot Gold.
-- [u/Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere) for having the original idea. Aswell as helping with the bot later on in its lifespan.
+- [u/Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere) for having the original idea. Aswell as helping with the bot later on in its lifespan. Unfortunatley Deleted his Reddit account in 2022.
 - [u/nyperfox](https://www.reddit.com/user/nyperfox) for helping with planning and shit.
 - [u/AmongUsCockBot](https://github.com/nlanson/AmongUsCockBot) for being a fellow cock bot.
 - You, because people using the bot is neat.
