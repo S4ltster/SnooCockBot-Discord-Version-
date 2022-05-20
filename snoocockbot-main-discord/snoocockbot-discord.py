@@ -13,7 +13,7 @@ bot_token = os.environ['token']
 client = commands.Bot(command_prefix = 'u/', intents = discord.Intents.all())
 client.remove_command('help')
 slash = SlashCommand(client, sync_commands = True)
-status = cycle(['Proudly serving Snoo cocks to the world.','Reddit version: u/snoocockbot','Release: Stable','Shoutouts to Simpleflips','u/help', 'Shoutouts to Sparkster, Deltara#6969, Glass-Paramedic#8989, Nyperfox#6046'])
+status = cycle(['Proudly serving Snoo cocks to the world.','Reddit version: u/snoocockbot','Release: Stable','Shoutouts to Simpleflips','u/help', 'Shoutouts to Sparkster, Deltara#4947, Glass-Paramedic#8989, Nyperfox#6046'])
 
 @client.event
 async def on_ready():
@@ -54,7 +54,7 @@ async def help(ctx):
 
 @client.command()
 async def redditteam(ctx):
-  await ctx.send("Elemento_Sphere, IPV46, Glass-Paramedic, Nyperfox")
+  await ctx.send("Elemento_Sphere (Defunct), IPV46, Glass-Paramedic, Nyperfox")
 
 @client.command()
 async def discordteam(ctx):
@@ -94,11 +94,11 @@ async def _help(ctx: SlashContext):
 
 @slash.slash(name = "redditteam")
 async def _redditteam(ctx: SlashContext):
-  await ctx.send("Elemento_Sphere, IPV46, Glass-Paramedic, Nyperfox")
+  await ctx.send("Elemento_Sphere (Defunct), IPV46, Glass-Paramedic, Nyperfox")
 
 @slash.slash(name = "discordteam")
 async def _discordteam(ctx: SlashContext):
-  await ctx.send("Saltster#4359, Deltara#6969, Glass-Paramedic#8989, Nyperfox#6046")
+  await ctx.send("Sparkster#0000, Deltara#6969, Glass-Paramedic#8989, Nyperfox#6046")
 
 @slash.slash(name = "invite")
 async def _invite(ctx: SlashContext):
