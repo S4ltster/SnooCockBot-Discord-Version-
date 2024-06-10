@@ -8,3 +8,5 @@ Basically for your Discord Snoo cock needs
 Enjoy a cock now.
 
 ![Snoo cock](/snoocockbot-main-discord/Elemento_Spherewithacock.png)
+
+# Bot has been down for awhile, It won't be back. I think.
